@@ -1,2 +1,9 @@
 <?php
-echo "Hello, World!";
+
+    echo "Hello, World!";
+    echo "<br>";
+    echo 5 + 7;
+    echo "<br>";
+    echo 7;
+    echo "<br>";
+    echo 5 - 7;
